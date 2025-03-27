@@ -1,0 +1,67 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+.vscode/*
+
+# Rider
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+
+# Database files (SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# ASP.NET Core secrets
+secrets.json
+
+# Entity Framework Migrations snapshot files
+**/Migrations/*.Designer.cs
+**/Migrations/*.csproj
+
+# EF Core bundle (when using bundled tools)
+efbundle
+
+# dotnet tools
+.dotnet-tools.json
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Transient files
+*.tmp
+*.temp
+
+# Web server configuration
+.env
+.env.*
+
+# Auto-generated Swagger files (if any)
+swagger.json
+swagger.yaml
+
+# Dependency directories
+node_modules/
+packages/
+
+# Optional: ignore HTTP request files unless you're using them intentionally
+*.http
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
