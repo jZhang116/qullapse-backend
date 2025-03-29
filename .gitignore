@@ -22,6 +22,7 @@ obj/
 
 # Database files (SQLite)
 *.db
+*.db-*
 *.sqlite
 *.sqlite3
 
