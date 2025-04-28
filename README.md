@@ -2,7 +2,7 @@
 
 This is the backend of **Qullapse**.
 
-> Built with ASP.NET Core.
+> Built with ASP.NET Core 9.
 
 ## 📝 License
 
